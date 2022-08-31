@@ -7,8 +7,8 @@ Instacart company provides online grocery shopping service. The company wants to
 2017” is [here](https://www.instacart.com/datasets/grocery-shopping-2017).
 ## Tools
 In this project the following tools were used:
--Anaconda.Navigator
--Panda
--Numpy
--Seaborn
--Jupyter Notebook
+- Anaconda.Navigator
+- Panda
+- Numpy
+- Seaborn
+- Jupyter Notebook
